@@ -1,3 +1,4 @@
 # farmfoods
 INFOMGMT 192 FarmFoods Group 8
-test
+
+This is Group 8's GitHub
